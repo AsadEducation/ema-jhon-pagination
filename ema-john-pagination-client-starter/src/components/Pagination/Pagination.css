@@ -1,0 +1,18 @@
+.pagination{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.pagination button {
+    margin-left: 15px;
+}
+
+.page-dropdown{
+    padding: 15px;
+    margin-left: 15px;
+}
+
+.selected{
+    background: rgb(109, 86, 172);
+}
